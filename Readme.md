@@ -15,6 +15,8 @@ Download or clone the repository. Then:
 **yarn install or npm install**
 ## **Usage:**
 
+**NOTE: Default url is <localhost:3333>**
+
 - **GET**: <you_url>/repositories
 
     This method returns all registered repositories
