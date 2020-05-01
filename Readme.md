@@ -9,6 +9,10 @@ This project was developed using Express and NodeJs serving as a basis for creat
 
 This project used NodeJS on base and Express to generate the comunication.
 
+## **Installation:**
+Download or clone the repository. Then:
+
+**yarn install or npm install**
 ## **Usage:**
 
 - **GET**: <you_url>/repositories
