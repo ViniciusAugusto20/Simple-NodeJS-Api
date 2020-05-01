@@ -1,8 +1,13 @@
+
 # Simple Api Using NodeJS
 
 ## **About:**
 
 This project was developed using Express and NodeJs serving as a basis for creating APIs with these technologies.
+
+## **Tools:**
+
+This project used NodeJS on base and Express to generate the comunication.
 
 ## **Usage:**
 
